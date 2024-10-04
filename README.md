@@ -1,11 +1,6 @@
-<p align="right" style="margin: 0; padding: 0;"> 
-  <img src="https://komarev.com/ghpvc/?username=dennis-lincango&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-lincango" /> 
-</p>
-
-<h1 align="center" style="margin: 0; padding: 0;">Hi 👋, I'm Dennis Lincango</h1>
+<h1 align="center" style="margin: 0; padding: 0;">Hi 👋, I'm Dennis Lincango </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis-lincango&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-lincango" /> </p>
 <h3 align="center">A passionate developer from Ecuador</h3>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -25,3 +20,5 @@
 <a href="https://linkedin.com/in/dennis-lincango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis-lincango" height="30" width="40" /></a>
 <a href="https://instagram.com/denn_is_dav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denn_is_dav" height="30" width="40" /></a>
 </p>
+
+
