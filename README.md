@@ -1,5 +1,5 @@
-<h1 align="center" style="margin: 0; padding: 0;">Hi 👋, I'm Dennis Lincango </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis-lincango&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-lincango" /> </p>
+<h1 align="center" style="margin: 0; padding: 0;">Hi 👋, I'm Dennis Lincango </h1>
 <h3 align="center">A passionate developer from Ecuador</h3>
 
 <h3 align="left">Languages and Tools:</h3>
