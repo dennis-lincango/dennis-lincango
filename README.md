@@ -4,8 +4,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dennis-lincango&show_icons=true&locale=en&bg_color=1b2838&text_color=ffffff&icon_color=f5b942&title_color=f5b942" alt="dennis-lincango" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-lincango&show_icons=true&locale=en&layout=compact&bg_color=1b2838&text_color=ffffff&title_color=f5b942" alt="dennis-lincango" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dennis-lincango&show_icons=true&locale=en&bg_color=1b2838&text_color=ffffff&icon_color=f5b942&title_color=f5b942" alt="dennis-lincango" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-lincango&show_icons=true&locale=en&layout=compact&bg_color=1b2838&text_color=ffffff&title_color=f5b942" alt="dennis-lincango" />
+</p>
 
 <br>
 
