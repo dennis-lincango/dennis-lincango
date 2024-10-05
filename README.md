@@ -5,9 +5,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennis-lincango&show_icons=true&locale=en&bg_color=1b2838&text_color=ffffff&icon_color=f5b942&title_color=f5b942" alt="dennis-lincango" width="455" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennis-lincango&show_icons=true&locale=en&bg_color=1b2838&text_color=ffffff&icon_color=f5b942&title_color=f5b942" alt="dennis-lincango" height="190" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-lincango&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=410&bg_color=1b2838&text_color=ffffff&title_color=f5b942" alt="dennis-lincango" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-lincango&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=350&bg_color=1b2838&text_color=ffffff&title_color=f5b942" alt="dennis-lincango" />
 </p>
 
 
